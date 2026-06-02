@@ -12,6 +12,7 @@ const NAV_LINKS = [
   { href: "/governance", label: "Governance" },
   { href: "/bridge", label: "Bridge" },
   { href: "/transactions", label: "History" },
+  { href: "/arbitrage-demo", label: "Arbitrage" },
   { href: "/profile", label: "Profile" },
   { href: "/settings", label: "Settings" },
 ];
